@@ -1,3 +1,3 @@
 # serviceB
 
-langauge
+language
